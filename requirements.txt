@@ -8,4 +8,5 @@ pykeyboard
 aiohttp
 aiofiles
 Pillow
+pymongo[srv]==3.12
 git+https://github.com/Itz-fork/Gofile2.git
